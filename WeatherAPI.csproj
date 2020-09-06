@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+		<UserSecretsId>HTTPS-Docker-70c84392-3d36-4ab7-a324-8da33157e973</UserSecretsId>
   </PropertyGroup>
 
 
